@@ -9,5 +9,6 @@ int main() {
 	cin >> y;
 	cout << x + y;
 	cout << endl;
+	cout << x - y;
 	return 0;
 }
